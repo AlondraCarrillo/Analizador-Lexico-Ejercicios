@@ -1,0 +1,18 @@
+int main()
+{
+          int sum, num1, num2;
+          printf("Introduce un número: ");
+          scanf("%d", &num1);
+          printf("Introduce otro número: ");
+          scanf("%d", &num2);
+
+          suma = num1+num2;
+          prinft("El resultado de la suma es: %d",  suma);
+          return 0;
+          <?php
+            $numero1 = 10;
+            $numero2 = 5;
+            $resultado = 2 * $numero1 + 5 * $numero2 - 3 * sqrt(81);
+            echo "Resultado: " . $resultado; 
+            ?>
+}
